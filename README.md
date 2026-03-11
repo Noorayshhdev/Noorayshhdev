@@ -39,7 +39,7 @@ Documenting my journey along the programming path.
 ---
 
 ## 🍂 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/inHttps://www.noor-aysha-parvez-8a2ba6383)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Https://www.linkedin.com/noor-aysha-parvez-8a2ba6383)
 
 💬 Open to learning, collaboration, and growth.
 

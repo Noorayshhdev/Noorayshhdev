@@ -1,11 +1,12 @@
-# 🎀Hey, I'm Noor Aaysha Parvez
+# 🎀Hey, 
+I'm Noor Aaysha Parvez
 
 **B.Tech Student**  
 Documenting my journey along the programming path.
 
 ---
 
-##  🎀Snapshot
+##  Snapshot
 
 - 🎓 Studying computer science fundamentals in B.tech
 - 🎓 Working with **C**, **HTML**, **CSS**, and **JavaScript**
@@ -14,7 +15,7 @@ Documenting my journey along the programming path.
 
 ---
 
-##  🎀Current Focus
+##  Current Focus
 
 - 🕊️ Strengthening **C++ fundamentals & problem‑solving**
 - 🕊️ Improving **JavaScript logic & DOM manipulation**
